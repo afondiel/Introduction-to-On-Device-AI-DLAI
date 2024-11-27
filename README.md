@@ -36,6 +36,11 @@ This course is designed for `beginner` AI developers, ML engineers, data scienti
 |[Device Integration](./lab/chapters/slides/05_Device_Integration/)| - |-|
 |[Conclusion](./lab/chapters/slides/06_Conclusion/)| - |-|
 
+
+## Disclaimer
+
+For important details about this repository's content, please review the [DISCLAIMER.md](./DISCLAIMER.md).
+
 ## References
 
 - [Main course - DeepLearning.AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
