@@ -82,6 +82,7 @@ The table below categorizes some of these models based on their primary function
 - [Magenta](https://github.com/magenta/magenta/tree/main/magenta/models/arbitrary_image_stylization)
 - [Awesome-CoreML-Models Public](https://github.com/likedan/Awesome-CoreML-Models)
 - [Pinto Models](https://github.com/PINTO0309/PINTO_model_zoo)
+- [Baidu AI Open Model Zoo](https://ai.baidu.com/tech/modelzoo)
 
 **Deployment Frameworks/Toolkits**
 - [TensorFlow Lite](https://www.tensorflow.org/lite)
@@ -100,31 +101,55 @@ The table below categorizes some of these models based on their primary function
 
 
 **Companies**
-- [Hugging Face](https://huggingface.co/)
-- [Google AI Hub](https://aihub.cloud.google.com/)
-    - [Google/Android](https://ai.google.dev/edge)
-- [Apple](https://www.apple.com/ai/)
+<!--//--> 
+Hardware Companies
+- [Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
 - [NVIDIA](https://www.nvidia.com/en-us/research/)
+- [AMD](https://www.amd.com/en/solutions/healthcare/edge/ai.html)
+- [ARM](https://www.arm.com/solutions/artificial-intelligence)
+- [STMicroelectronics](https://www.st.com/content/st_com/en/stm32-ai.html)
+- [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence)
+- [Samsung AI](https://research.samsung.com/artificial-intelligence)
+- [MediaTek](https://corp.mediatek.com)
+
+<!--//-->
+Software Companies
+- [Hugging Face](https://huggingface.co/)
 - [Meta (Facebook)](https://ai.facebook.com/)
     - [Facebook AI Research (FAIR) Models](https://github.com/facebookresearch)
 - [Microsoft (MS)](https://www.microsoft.com/en-us/research/)
-- [Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/)
-- [Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
-- [ARM](https://www.arm.com/solutions/artificial-intelligence)
-- [STMicroelectronics](https://www.st.com/content/st_com/en/stm32-ai.html)
 - [Edge Impulse](https://www.edgeimpulse.com/)
-- [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence)
-- [Azure AI Gallery](https://gallery.azure.ai/)
 - [IBM Model Asset Exchange](https://developer.ibm.com/exchanges/models/)
+
+<!--//-->
+Infrastructure Companies
+- [Google AI Hub](https://aihub.cloud.google.com/)
+    - [Google/Android](https://ai.google.dev/edge)
+- [Apple](https://www.apple.com/ai/)
+- [Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/)
+- [Azure AI Gallery](https://gallery.azure.ai/)
 - [Baidu AI Open Model Zoo](https://ai.baidu.com/tech/modelzoo)
 - [Alibaba Cloud AI Model Marketplace](https://www.alibabacloud.com/solutions/ai)
 - [Tencent AI Open Platform](https://ai.qq.com/)
-- [Samsung AI](https://research.samsung.com/artificial-intelligence)
 
 **Blogs:**
-
 - [13 Free Resources and Model Zoos for Deep Learning and Computer Vision Models](https://www.edge-ai-vision.com/2022/04/13-free-resources-and-model-zoos-for-deep-learning-and-computer-vision-models/)
 - [LiteRT Models](https://ai.google.dev/edge/litert/models/trained)
 - [Amazon SageMaker and Qualcomm AI Hub](https://aws.amazon.com/blogs/machine-learning/train-optimize-and-deploy-models-on-edge-devices-using-amazon-sagemaker-and-qualcomm-ai-hub/)
 - [Hugging Face Computer Vision Course](https://huggingface.co/learn/computer-vision-course/unit9/intro_to_model_optimization)
 - [Apple Foundation Models](https://machinelearning.apple.com/research/introducing-apple-foundation-models)
+- [MediaTek Integrates NVIDIA TAO ToolKit with NeuroPilot SDK for Accelerated Development of Edge AI Applications in IoT](https://corp.mediatek.com/news-events/press-releases/mediatek-integrates-nvidia-tao-toolkit-with-neuropilot-sdk-for-accelerated-development-of-edge-ai-applications-in-iot)
+
+
+**Developer Resources**
+
+- NVIDIA: 
+    - https://developer.nvidia.com/
+    - https://docs.nvidia.com/
+- AMD:
+    - https://www.amd.com/en/products/adaptive-socs-and-fpgas/versal/gen2/ai-edge-series.html
+    - https://www.amd.com/en/solutions/healthcare/edge/ai.html
+- https://community.arm.com/arm-community-blogs/b/ai-and-ml-blog/posts/optimizing-ai-models-for-arm-ethos-u-npus-using-the-nvidia-tao-toolkit
+- https://www.nota.ai/community/integrating-launchx-with-nvidia-tao-toolkit-for-running-on-various-edge-devices
+- https://www.hackster.io/sandeep-mistry/nvidia-tao-object-detection-ml-models-on-arm-based-devices-3e51fb/
+- https://blog.st.com/tao-toolkit/
