@@ -104,8 +104,11 @@ The table below categorizes some of these models based on their primary function
 <!--//--> 
 Hardware Companies
 - [Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
-- [NVIDIA](https://www.nvidia.com/en-us/research/)
-- [AMD](https://www.amd.com/en/solutions/healthcare/edge/ai.html)
+    - [Intel Edge Computing Solutions & Resources](https://www.intel.com/content/www/us/en/developer/topic-technology/edge-5g/overview.html)
+    - [Intel® Tiber™ Edge Platform](https://www.intel.com/content/www/us/en/developer/topic-technology/edge-5g/edge-platform/overview.html)
+- [NVIDIA - Robotics & Edge Computing](https://www.nvidia.com/en-us/edge-computing/)
+- [AMD - Embedded Solutions for IoT Secure and Flexible Edge to Cloud IoT Solutions](https://www.amd.com/en/products/embedded/solutions/iot.html)
+    - [AMD: Healthcare AI at the Edge](https://www.amd.com/en/solutions/healthcare/edge/ai.html)
 - [ARM](https://www.arm.com/solutions/artificial-intelligence)
 - [STMicroelectronics](https://www.st.com/content/st_com/en/stm32-ai.html)
 - [Qualcomm](https://www.qualcomm.com/research/artificial-intelligence)
