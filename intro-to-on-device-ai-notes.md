@@ -17,7 +17,7 @@ This is a comprehensive set of notes and resources.
 ## Introduction
 - [Slides](./lab/chapters/slides/00_Intro/)
 
-## Why On-Device
+## Why On-Device?
 - [Slides](./lab/chapters/slides/01_Why_on_device/)         
 
 ## Deploying Segmentation Models On-Device
@@ -36,23 +36,15 @@ This is a comprehensive set of notes and resources.
 - [Slides](./lab/chapters/slides/06_Conclusion/)
 
 
-## Appendices
-
-**Edge Devices Applications:**
-
-- Mobile Apps: Android, iOS
-- Embedded Applications:
-    - Robotics, Smart Watches, Smart Home, Smart Glasses
-    - Embedded AI Eval-boards: JetsonNano, Coral TPU, RaspberryPi …  (inference engine available?)
-- Microcontrollers : https://ai.google.dev/edge/litert/microcontrollers/overview
-    - Tailor-made/provider-based inference Engine
-    - Free ML toolkits: OpenVINO …
-
 ## References
 
 - [Main course - DeepLearning.AI](https://www.deeplearning.ai/short-courses/introduction-to-on-device-ai/)
 - [Qualcomm AI Hub](https://aihub.qualcomm.com/get-started)
 
+Research Papers (from the course):
+- FFNet (Fuss Free Network):
+    - Paper: https://arxiv.org/pdf/2206.08236
+    - Code: https://github.com/Qualcomm-AI-research/FFNet?tab=readme-ov-file
 
 ### Practical Guide & Notes:
 
