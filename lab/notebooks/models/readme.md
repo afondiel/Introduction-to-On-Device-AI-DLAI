@@ -65,6 +65,8 @@ The table below categorizes some of these models based on their primary function
 
 ## Resources
 
+[Related Work: A comprehensive Model Zoo List](https://github.com/afondiel/EdgeAI-Model-Zoo)
+
 **Model Zoos:**
 - [Model Zoo](https://modelzoo.co/)
 - [Papers with Code](https://paperswithcode.com/)
@@ -83,9 +85,14 @@ The table below categorizes some of these models based on their primary function
 - [Awesome-CoreML-Models Public](https://github.com/likedan/Awesome-CoreML-Models)
 - [Pinto Models](https://github.com/PINTO0309/PINTO_model_zoo)
 - [Baidu AI Open Model Zoo](https://ai.baidu.com/tech/modelzoo)
+- [Hailo Model Zoo](https://github.com/hailo-ai/hailo_model_zoo)
+- [Qualcomm Models Zoo](https://github.com/quic/ai-hub-models/)
+- [stm32ai-modelzoo](https://github.com/STMicroelectronics/stm32ai-modelzoo/):AI Model Zoo for STM32 devices
 
 **Deployment Frameworks/Toolkits**
 - [TensorFlow Lite](https://www.tensorflow.org/lite)
+    - [TFLite Model Maker](https://www.tensorflow.org/lite/models/modify/model_maker)
+- [Core ML](https://developer.apple.com/documentation/coreml)
 - [ONNX Runtime](https://onnxruntime.ai/)
 - [TensorRT](https://developer.nvidia.com/tensorrt)
 - [OpenVINO Toolkit](https://www.intel.com/content/www/us/en/developer/tools/openvino-toolkit/overview.html)
@@ -93,6 +100,7 @@ The table below categorizes some of these models based on their primary function
 - [TFLite Model Maker](https://www.tensorflow.org/lite/models/modify/model_maker)
 - [AWS SageMaker Neo](https://aws.amazon.com/sagemaker/neo/)
 - [Google Cloud AI Platform](https://cloud.google.com/ai-platform)
+- [AWS SageMaker Neo](https://aws.amazon.com/sagemaker/neo/)
 - [Azure Machine Learning](https://azure.microsoft.com/en-us/services/machine-learning/)
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [Apache TVM](https://tvm.apache.org/)
@@ -105,7 +113,6 @@ The table below categorizes some of these models based on their primary function
 Hardware Companies
 - [Intel](https://www.intel.com/content/www/us/en/artificial-intelligence/overview.html)
     - [Intel Edge Computing Solutions & Resources](https://www.intel.com/content/www/us/en/developer/topic-technology/edge-5g/overview.html)
-    - [Intel® Tiber™ Edge Platform](https://www.intel.com/content/www/us/en/developer/topic-technology/edge-5g/edge-platform/overview.html)
 - [NVIDIA - Robotics & Edge Computing](https://www.nvidia.com/en-us/edge-computing/)
 - [AMD - Embedded Solutions for IoT Secure and Flexible Edge to Cloud IoT Solutions](https://www.amd.com/en/products/embedded/solutions/iot.html)
     - [AMD: Healthcare AI at the Edge](https://www.amd.com/en/solutions/healthcare/edge/ai.html)
@@ -130,6 +137,7 @@ Infrastructure Companies
     - [Google/Android](https://ai.google.dev/edge)
 - [Apple](https://www.apple.com/ai/)
 - [Amazon Web Services (AWS)](https://aws.amazon.com/machine-learning/)
+- [Intel® Tiber™ Edge Platform (Cloud server)](https://www.intel.com/content/www/us/en/developer/topic-technology/edge-5g/edge-platform/overview.html)
 - [Azure AI Gallery](https://gallery.azure.ai/)
 - [Baidu AI Open Model Zoo](https://ai.baidu.com/tech/modelzoo)
 - [Alibaba Cloud AI Model Marketplace](https://www.alibabacloud.com/solutions/ai)
