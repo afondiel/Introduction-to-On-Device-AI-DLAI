@@ -1,1 +1,20 @@
-models/
+# files
+
+# Torch
+*.pth
+*.pt
+# tf
+*.tflite
+# keras
+*.h5
+# onnx
+*.onnx
+# check point
+*.ckpt
+# pickle
+*.pkl
+# binary
+*.bin
+
+
+# folders

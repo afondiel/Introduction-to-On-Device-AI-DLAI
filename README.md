@@ -30,7 +30,7 @@ This course is designed for `beginner` AI developers, ML engineers, data scienti
 |--|--|--|
 |[Introduction](./lab/chapters/slides/00_Intro/)|-|-|
 |[Why On-Device?](./lab/chapters/slides/01_Why_on_device/)|-|-|
-|[Deploying Segmentation Models On-Device](./lab/chapters/slides/02_Deploying_Segmentation_Models_On_Device/)|[L2_Student.ipynb](./lab/notebooks/L2/L2_Student.ipynb)|-|
+|[Deploying Segmentation Models On-Device](./lab/chapters/slides/02_Deploying_Segmentation_Models_On_Device/)|[L2_Student.ipynb](./lab/notebooks/L2/L2_Student.ipynb)| - [ffnet_40 (on-device)](https://aihub.qualcomm.com/mobile/models/ffnet_40s) <br> - [ffnet_54s (on-device)](https://aihub.qualcomm.com/mobile/models/ffnet_54s)<br> - [ffnet_78s (on-device)](https://aihub.qualcomm.com/mobile/models/ffnet_78s)<br> - [ffnet_78s_lowres (on-device)](https://aihub.qualcomm.com/mobile/models/ffnet_78s_lowres)<br> - [ffnet_122s_lowres (on-device)](https://aihub.qualcomm.com/mobile/models/ffnet_122ns_lowres)|
 |[Preparing for On-Device Deployment](./lab/chapters/slides/03_Preparing_for_on_device_deployment/)|[L3_Student.ipynb](./lab/notebooks/L3/L3_Student.ipynb)|-|
 |[Quantizing Models](./lab/chapters/slides/04_Quantizing_Models/)|[L4_Student.ipynb](./lab/notebooks/L4/L4_Student.ipynb)|-|
 |[Device Integration](./lab/chapters/slides/05_Device_Integration/)| - |-|
