@@ -23,8 +23,13 @@ This is a comprehensive set of notes and resources.
 ## Deploying Segmentation Models On-Device
 - [Slides](./lab/chapters/slides/02_Deploying_Segmentation_Models_On_Device/)
 
+**Resources**: [FFNet Paper](https://arxiv.org/abs/2206.08236) 
+
 ## Preparing for On-Device Deployment
 - [Slides](./lab/chapters/slides/03_Preparing_for_on_device_deployment/)
+
+**Resources**: 
+- Expore more compiler options <a href=https://app.aihub.qualcomm.com/docs/hub/compile_examples.html#compiling-pytorch-to-tflite> here (Compiling PyTorch to TensorFlow Lite)</a>.
 
 ## Quantizing Models
 - [Slides](./lab/chapters/slides/04_Quantizing_Models/)
